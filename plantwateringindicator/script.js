@@ -13,6 +13,12 @@ function generateClimate() {
             waterPercent = 100;
             break;
 
+        case "Bery Sunny":
+            instruction = "Bater plants twice (high water)";
+            bgColor = "#ffcc66";
+            waterPercent = 100;
+            break;
+
         case "Moderately Sunny":
             instruction = "Water plants less - twice (medium water)";
             bgColor = "#ffe699";
